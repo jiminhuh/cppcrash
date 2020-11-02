@@ -3,8 +3,28 @@
 using namespace std;
 
 // enum EyeColor {Brown, Blue, Green, Grey, Other};
+class Vehicle
+{
+private:
+    /* data */
+    int 
+public:
+    Vehicle(/* args */);
+    ~Vehicle();
+};
+
+Vehicle::Vehicle(/* args */)
+{
+}
+
+Vehicle::~Vehicle()
+{
+}
+
 
 int main() {
+
+    
 
     // EyeColor eyeColor = Brown; 
 
@@ -16,5 +36,7 @@ int main() {
     //     case Other: cout << "Interesting."; break;
     //     default: cout << "No Way"; break;
     // }
+
+    
 
 }
